@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "767792175548",
+    "firebase_url": "https://wallpapers-65988.firebaseio.com",
+    "project_id": "wallpapers-65988",
+    "storage_bucket": "wallpapers-65988.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767792175548:android:a9d9ca380eef0a3c",
+        "android_client_info": {
+          "package_name": "com.kk.abstract"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767792175548-kputbs6cvpaah6icaquhf5vkmqif3f69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcj02R7r4Xu-FIo-ShJOzBX5698oV7QiU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
